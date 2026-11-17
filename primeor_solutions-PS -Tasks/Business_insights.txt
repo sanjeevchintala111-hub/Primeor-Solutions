@@ -1,0 +1,194 @@
+# Task 3: Business Insights – E-Commerce Data Analysis
+
+## 1. Top 10 Profitable Products
+
+**Finding:**
+- Canon imageCLASS 2200 Advanced Copier generated the highest total profit of 25,199.94.
+- Cisco and Motorola smartphones also appeared among the top profitable products.
+- Technology products showed strong representation in the top 10.
+
+**Business Insight:**
+
+Technology products are important contributors to business profitability. The Canon imageCLASS copier is the highest-profit product in the analysis.
+
+**Recommendation:**
+
+Maintain sufficient inventory of high-profit products and monitor their pricing, demand, and stock availability.
+
+---
+
+## 2. Top 10 Customers by Sales
+
+**Finding:**
+- Tom Ashbrook generated the highest sales of 40,489.
+- Tamara Chand ranked second with 37,453.
+- Greg Tran ranked third with 35,552.
+
+**Business Insight:**
+
+A group of high-value customers contributes significantly to sales revenue. Retaining these customers can help maintain consistent business performance.
+
+**Recommendation:**
+
+Introduce customer loyalty programs, personalized offers, and targeted promotions to improve customer retention.
+
+---
+
+## 3. Region-Wise Total Sales
+
+**Finding:**
+- Central recorded the highest sales of 2,833,115.
+- South ranked second with 1,600,600.
+- North generated 1,248,121.
+- Canada recorded the lowest sales of 66,932.
+
+**Business Insight:**
+
+Sales performance varies considerably across regions. Central is the strongest sales region, while Canada contributes the least.
+
+**Recommendation:**
+
+Maintain strong operations in Central and investigate opportunities to improve sales in lower-performing regions.
+
+---
+
+## 4. Category-Wise Average Profit
+
+**Finding:**
+- Technology recorded the highest average profit of 65.43.
+- Furniture recorded an average profit of 29.00.
+- Office Supplies recorded the lowest average profit of 16.57.
+
+**Business Insight:**
+
+Technology generates the highest average profit per record among the three product categories, while Office Supplies has comparatively lower average profitability.
+
+**Recommendation:**
+
+Review the pricing, costs, and discount strategies of Office Supplies to identify opportunities to improve profitability.
+
+---
+
+## 5. Average Discount by Category
+
+**Finding:**
+- Furniture received the highest average discount of 16.80.
+- Office Supplies recorded an average discount of 13.74.
+- Technology received the lowest average discount of 13.53.
+
+**Business Insight:**
+
+Furniture products receive higher average discounts than other categories. High discount levels may affect profit margins.
+
+**Recommendation:**
+
+Review Furniture discount policies and evaluate whether discounts are generating enough additional sales to justify their impact on profitability.
+
+---
+
+## 6. Orders with Negative Profit
+
+**Finding:**
+- The Cubify CubeX 3D Printer Double Head Print recorded the highest individual loss in the results, at -6,599.98.
+- Other products, including Motorola smartphones and printing equipment, also recorded substantial losses.
+
+**Business Insight:**
+
+Some products generate negative profit despite being sold. These losses may affect overall business profitability.
+
+**Recommendation:**
+
+Investigate product costs, selling prices, discount levels, and shipping expenses to identify the reasons behind negative-profit orders.
+
+---
+
+## 7. Monthly Sales Trend
+
+**Finding:**
+- December 2014 recorded the highest monthly sales of 503,154.
+- January 2011 recorded the lowest monthly sales of 98,902.
+- Overall monthly sales increased from 2011 to 2014.
+- November and December generally showed strong sales performance.
+
+**Business Insight:**
+
+The business experienced an overall upward sales trend during the four-year period. Sales also showed seasonal fluctuations, with strong performance toward the end of the year.
+
+**Recommendation:**
+
+Analyze seasonal demand and prepare sufficient inventory and resources before high-sales months, especially November and December.
+
+---
+
+## 8. Market-Wise Revenue Analysis
+
+**Finding:**
+- APAC generated the highest revenue of 18,229,276.
+- EU ranked second with 14,836,996.
+- US generated 11,487,816.
+- Canada recorded the lowest revenue of 237,288.
+
+**Business Insight:**
+
+APAC is the strongest revenue-generating market, followed by EU and US. Revenue contribution differs significantly across markets.
+
+**Recommendation:**
+
+Maintain growth in APAC and EU while identifying opportunities to improve revenue in lower-performing markets, especially Canada.
+
+---
+
+## 9. Top-Performing Sub-Categories
+
+**Finding:**
+- Phones generated the highest sales of 1,706,642.
+- Copiers ranked second with 1,508,370.
+- Chairs ranked third with 1,500,930.
+- Binders recorded the lowest sales among the selected top 10, at 461,842.
+
+**Business Insight:**
+
+Phones, Copiers, and Chairs are the strongest sales-generating sub-categories in the analysis.
+
+**Recommendation:**
+
+Maintain sufficient inventory for high-performing sub-categories and investigate the sales performance of lower-performing sub-categories to identify improvement opportunities.
+
+---
+
+## 10. Ship Mode Usage
+
+**Finding:**
+- Standard Class recorded the highest usage with 30,764 orders.
+- Second Class recorded 10,304 orders.
+- First Class recorded 7,504 orders.
+- Same Day recorded the lowest usage with 2,699 orders.
+
+**Business Insight:**
+
+Most orders use Standard Class shipping. Customers use faster delivery options less frequently.
+
+**Recommendation:**
+
+Maintain efficient Standard Class shipping operations and evaluate customer demand and costs before expanding faster delivery options.
+
+---
+
+## Overall Business Conclusion
+
+The SQL analysis of the e-commerce dataset reveals several important business patterns:
+
+1. **Product Profitability:** Technology products, particularly Canon copiers, are important profit contributors.
+2. **Customer Performance:** High-value customers such as Tom Ashbrook contribute significantly to sales.
+3. **Regional Performance:** Central is the leading region by sales.
+4. **Category Performance:** Technology has the highest average profit.
+5. **Discount Strategy:** Furniture receives the highest average discount and deserves further margin analysis.
+6. **Loss Management:** Certain products generate substantial negative profit and require investigation.
+7. **Sales Growth:** Monthly sales show an overall upward trend from 2011 to 2014.
+8. **Market Performance:** APAC leads the markets in total revenue.
+9. **Product Demand:** Phones, Copiers, and Chairs are the leading sub-categories by sales.
+10. **Shipping Preferences:** Standard Class is the most frequently used shipping method.
+
+### Final Recommendation
+
+The business should focus on improving product profitability, retaining valuable customers, optimizing discount strategies, strengthening lower-performing markets, and maintaining inventory for high-demand products. Regular monitoring through SQL reports and Power BI dashboards can support better business decisions.
